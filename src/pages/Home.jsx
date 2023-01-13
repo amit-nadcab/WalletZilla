@@ -606,7 +606,7 @@ export default function Home() {
             {/* <h5>BDLT COMMUNITY DEVELOPMENT PROGRAM</h5> */}
             <p>
               {" "}
-              The first decentralized Marketplace which makes simplifies and standardizes data with blockchain technology. We provides user friendly, efficient and secure crypto solutions and utilizing blockchain technology.
+              The first decentralized, Marketplace which makes simplifies and standardizes data with blockchain technology. We provides user friendly, efficient and secure crypto solutions and utilizing blockchain technology.
             </p>
           </div>
         </div>
